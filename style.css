@@ -1,0 +1,27 @@
+#better{
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+h1{
+    padding-top: 100px;
+}
+#color1{
+    background-color: rgb(34, 34, 206);
+  
+}
+#color2{
+    background-color: yellowgreen;
+}
+#color3{
+    background-color: rgb(161, 64, 80);
+}
+#row1{
+    padding-bottom: 20px;
+    
+}
+#im2{
+    width: 500px;
+    
+}
